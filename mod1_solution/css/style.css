@@ -1,0 +1,15 @@
+.paragraph-success {
+  color: #5cb85c;
+}
+
+.paragraph-warning {
+  color: #df3c3c;
+}
+
+.textarea-success {
+  border-color: #5cb85c;
+}
+
+.textarea-warning {
+  border-color: #df3c3c;
+}
